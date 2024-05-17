@@ -1,0 +1,40 @@
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid OrangeRed;
+    border-radius: 10px;
+    background-color: OrangeRed;
+}
+.d{
+    background-color: white;
+    color: Salmon;
+}
+header{
+    text-align: center;
+}
+.a{
+    text-align: center;
+}
+main h1{
+  text-align: center;  
+}
+main h3{
+    text-align: center;
+}
+.b{
+    height:200px;
+    
+}
+.c{
+    height: 230px;
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+main p{
+    background-color: Salmon;
+}
